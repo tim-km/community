@@ -1,5 +1,6 @@
-package com.example.community.dao;
+package com.example.community.dao.impl;
 
+import com.example.community.dao.ICountryDAO;
 import com.example.community.entity.Country;
 import org.springframework.stereotype.Repository;
 
@@ -17,9 +18,8 @@ public class CountryDAOImpl implements ICountryDAO {
     @Override
     public List<Country> getCountries() {
 
-        // TODO: write tests
         TypedQuery<Country> query =
-                entityManager.createQuery("FROM Country ", Country.class);
+                entityManager.createQuery("FROM Country", Country.class);
         return query.getResultList();
     }
 }
