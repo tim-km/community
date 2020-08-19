@@ -1,0 +1,180 @@
+Abkhazian
+Afar
+Afrikaans
+Akan
+Albanian
+Amharic
+Arabic
+Aragonese
+Armenian
+Assamese
+Avaric
+Avestan
+Aymara
+Azerbaijani
+Bambara
+Bashkir
+Basque
+Belarusian
+Bengali
+Bihari languages
+Bislama
+Bosnian
+Breton
+Bulgarian
+Burmese
+Catalan, Valencian
+Chamorro
+Chechen
+Chichewa, Chewa, Nyanja
+Chinese
+Chuvash
+Cornish
+Corsican
+Cree
+Croatian
+Czech
+Danish
+Divehi, Dhivehi, Maldivian
+Dutch, Flemish
+Dzongkha
+English
+Esperanto
+Estonian
+Ewe
+Faroese
+Fijian
+Finnish
+French
+Fulah
+Gaelic, Scottish Gaelic
+Galician
+Georgian
+German
+Greek, Modern
+Guarani
+Gujarati
+Haitian, Haitian Creole
+Hausa
+Hebrew
+Herero
+Hindi
+Hiri Motu
+Hungarian
+Interlingua
+Indonesian
+Interlingue, Occidental
+Irish
+Igbo
+Inupiaq
+Ido
+Icelandic
+Italian
+Inuktitut
+Japanese
+Javanese
+Kalaallisut, Greenlandic
+Kannada
+Kanuri
+Kashmiri
+Kazakh
+Central Khmer
+Kikuyu, Gikuyu
+Kinyarwanda
+Kirghiz, Kyrgyz
+Komi
+Kongo
+Korean
+Kurdish
+Kuanyama, Kwanyama
+Latin
+Luxembourgish, Letzeburgesch
+Ganda
+Limburgan, Limburger, Limburgish
+Lingala
+Lao
+Lithuanian
+Luba-Katanga
+Latvian
+Manx
+Macedonian
+Malagasy
+Malay
+Malayalam
+Maltese
+Maori
+Marathi
+Marshallese
+Mongolian
+Nauru
+Navajo, Navaho
+North Ndebele
+Nepali
+Ndonga
+Norwegian Bokmål
+Norwegian Nynorsk
+Norwegian
+Occitan
+Ojibwa
+Church Slavic, Old Slavonic
+Oromo
+Oriya
+Ossetian, Ossetic
+Punjabi, Panjabi
+Pali
+Persian
+Polish
+Pashto, Pushto
+Portuguese
+Quechua
+Romansh
+Rundi
+Romanian, Moldavian, Moldovan
+Russian
+Sanskrit
+Sardinian
+Sindhi
+Samoan
+Sango
+Serbian
+Shona
+Sinhala, Sinhalese
+Slovak
+Slovenian
+Somali
+Southern Sotho
+Spanish, Castilian
+Sundanese
+Swahili
+Swati
+Swedish
+Tamil
+Telugu
+Tajik
+Thai
+Tigrinya
+Tibetan
+Turkmen
+Tagalog
+Tswana
+Tonga (Tonga Islands)
+Turkish
+Tsonga
+Tatar
+Twi
+Tahitian
+Uighur, Uyghur
+Ukrainian
+Urdu
+Uzbek
+Venda
+Vietnamese
+Volapük
+Walloon
+Welsh
+Wolof
+Western Frisian
+Xhosa
+Yiddish
+Yoruba
+Zhuang, Chuang
