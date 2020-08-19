@@ -6,5 +6,5 @@ import java.util.List;
 
 public interface IProgrammingLanguageService {
 
-    List<ProgrammingLanguage> getProgrammingLanguages();
+    Iterable<ProgrammingLanguage> getProgrammingLanguages();
 }

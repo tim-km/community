@@ -19,7 +19,7 @@ public class ProgrammingLanguageRestController {
     }
 
     @GetMapping
-    public List<ProgrammingLanguage> getProgrammingLanguages() {
+    public Iterable<ProgrammingLanguage> getProgrammingLanguages() {
         return programmingLanguageService.getProgrammingLanguages();
     }
 }
