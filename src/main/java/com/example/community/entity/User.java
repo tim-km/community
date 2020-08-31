@@ -1,6 +1,11 @@
 package com.example.community.entity;
 
+import com.sun.istack.NotNull;
+import org.hibernate.annotations.ColumnDefault;
+import org.hibernate.annotations.CreationTimestamp;
+
 import javax.persistence.*;
+import java.time.Instant;
 import java.time.LocalDate;
 import java.util.List;
 
@@ -17,6 +22,7 @@ public class User {
     private Long id;
 
     @Column(name = "username")
+    @NotNull
     private String username;
 
     @Column(name = "first_name")
@@ -26,15 +32,18 @@ public class User {
     private String lastName;
 
     @Column(name = "email")
+    @NotNull
     private String email;
 
-    @Column(name = "date_created")
+    @Column(name = "date_created", insertable = false)
+    @NotNull
     private LocalDate dateCreated;
 
     @Column(name = "password")
     private String password;
 
-    @Column(name = "role")
+    @Column(name = "role", insertable = false)
+    @NotNull
     private String role;
 
     @ManyToOne(

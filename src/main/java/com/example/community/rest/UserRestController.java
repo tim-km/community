@@ -14,6 +14,11 @@ public class UserRestController {
         this.userService = userService;
     }
 
+    @GetMapping("{id}")
+    public User getUser(@PathVariable Long id) {
+        return userService.getUser(id);
+    }
+
     @GetMapping
     public Iterable<User> getUsers() {
         return userService.getUsers();
