@@ -1,4 +1,4 @@
-psql -q -U hibernate -d community -h localhost -p 5432 -f create_tables.sql
-javac -cp postgresql-42.2.15.jar InitializeDefaultTableValues.java
-java -cp postgresql-42.2.15.jar: InitializeDefaultTableValues
-rm InitializeDefaultTableValues.class
+psql -U hibernate -d community -h localhost -p 5432 -f create_tables.sql
+psql -U hibernate -d community -h localhost -p 5432 -c "\copy country(name) FROM 'country.txt';"
+psql -U hibernate -d community -h localhost -p 5432 -c "\copy programming_language(name) FROM 'programming_language.txt';"
+psql -U hibernate -d community -h localhost -p 5432 -c "\copy spoken_language(name) FROM 'spoken_language.txt';"
